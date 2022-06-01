@@ -26,11 +26,19 @@ button {
 .information {font-size: 36px;
     color: #1F2937;
     font-weight: bolder;
+    text-align: center;
 }
 
 .information .illustrations {
     font-size: 18px;
     font-weight: normal;
+    display:flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.information .illustrations p{
+    flex-wrap: wrap;
 }
 
 .testimonials {background-color: #e5e7eb;
