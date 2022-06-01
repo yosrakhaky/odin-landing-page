@@ -1,7 +1,7 @@
 *{font-family: sans-serif;
 }
 
-nav, header {
+nav, header, footer {
     background-color: #1f2937;
     color:#F9FAF8;
 
@@ -14,7 +14,7 @@ h1 {font-size: 48px;
 h2 {font-size: 24px;
 }
 
-h3 {font-size: 18px;
+h3, .subtext {font-size: 18px;
     color: #e5e7eb;
 }
 
@@ -38,4 +38,10 @@ button {
     font-style: italic;
     font-weight: lighter;
     color: #1F2937;
+}
+
+.action {background-color: #3882f6;
+    color: #F9FAF8;
+    font-weight: bold;
+    font-size: 24px;
 }
