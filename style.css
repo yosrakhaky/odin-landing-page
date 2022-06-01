@@ -32,3 +32,10 @@ button {
     font-size: 18px;
     font-weight: normal;
 }
+
+.testimonials {background-color: #e5e7eb;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+}
