@@ -4,6 +4,7 @@
 nav, header {
     background-color: #1f2937;
     color:#F9FAF8;
+
 }
 
 h1 {font-size: 48px;
@@ -17,7 +18,17 @@ h3 {font-size: 18px;
     color: #e5e7eb;
 }
 
-button{
+button {
     background-color: #3882f6;
     color:#F9FAF8;
+}
+
+.information {font-size: 36px;
+    color: #1F2937;
+    font-weight: bolder;
+}
+
+.information .illustrations {
+    font-size: 18px;
+    font-weight: normal;
 }
