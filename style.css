@@ -4,6 +4,7 @@
 nav, header, footer {
     background-color: #1f2937;
     color:#F9FAF8;
+    display: flex;
 }
 
 footer {
