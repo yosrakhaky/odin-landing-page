@@ -30,6 +30,18 @@ h3, .subtext {font-size: 18px;
 button {
     background-color: #3882f6;
     color:#F9FAF8;
+    border-radius: 12px;
+    height: 50px;
+    width: 200px;
+    font-weight: bolder;
+}
+
+.action button {
+    align-self: center;
+}
+
+header button {
+    justify-self: center;
 }
 
 .information {font-size: 36px;
@@ -85,6 +97,7 @@ align-self: flex-end;
     border-radius: 25px;
     display: flex;
     flex-direction: row;
+
 }
 
 #action-text {display: flex;
