@@ -4,11 +4,13 @@
 nav, header, footer {
     background-color: #1f2937;
     color:#F9FAF8;
-    display: flex;
+    display: flex;  
+}
+
+nav{gap:10px ;
 }
 
 header {padding: 150px; /*top right bottom left*/
-
 }
 
 .header-text {flex-direction: column;
@@ -29,7 +31,10 @@ h1 {font-size: 48px;
 }
 
 h2 {font-size: 24px;
+    flex-grow: 2;
 }
+
+h3 {justify-self: flex-end;}
 
 h3, .subtext {font-size: 18px;
     color: #e5e7eb;
