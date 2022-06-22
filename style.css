@@ -38,10 +38,12 @@ button {
 
 .action button {
     align-self: center;
+    border-color: #F9FAF8;
 }
 
 header button {
     justify-self: center;
+    border: 0;
 }
 
 .information {font-size: 36px;
