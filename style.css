@@ -7,10 +7,17 @@ nav, header, footer {
     display: flex;
 }
 
-.header-text {flex-direction: column;
+header {padding: 150px; /*top right bottom left*/
 
 }
 
+.header-text {flex-direction: column;
+}
+
+header img {
+    height: 100;
+    width: 200;
+}
 footer {
     justify-content: center;
     padding: 20px;
