@@ -83,4 +83,12 @@ align-self: flex-end;
     margin: 50px 75px 50px 75px; /*top right bottom left*/
     padding: 40px 100px 40px 100px;
     border-radius: 25px;
+    display: flex;
+    flex-direction: row;
 }
+
+#action-text {display: flex;
+    flex-direction: column;
+    flex-grow: 2;
+}
+
