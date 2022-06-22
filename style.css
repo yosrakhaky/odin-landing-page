@@ -50,6 +50,11 @@ button {
     flex-wrap: wrap;
 }
 
+.information .illustrations img{
+    border: 4px solid #3882f6;
+    border-radius: 25px;
+}
+
 .illus1, .illus2, .illus3 {flex-direction: column;
 }
 
