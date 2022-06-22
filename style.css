@@ -7,7 +7,7 @@ nav, header, footer {
     display: flex;
 }
 
-header {flex-direction: column;
+.header-text {flex-direction: column;
 
 }
 
