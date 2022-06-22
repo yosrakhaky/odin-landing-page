@@ -14,13 +14,14 @@ header {padding: 150px; /*top right bottom left*/
 .header-text {flex-direction: column;
 }
 
-header img {
-    height: 100;
-    width: 200;
+header img {aspect-ratio: 5/3;
+    max-height: 100%;
+    padding: 20px;
 }
+
 footer {
     justify-content: center;
-    padding: 20px;
+    padding: 10px;
 }
 
 h1 {font-size: 48px;
